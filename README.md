@@ -1,8 +1,8 @@
 # NERVA Identities
 
-This repo contains the public key for Nerva developer Angry Wasp, used to sign NERVA 0.1.7.1 CLI binaries.
+This repo contains the public key for Nerva developer Angry Wasp, used to sign the NERVA 0.1.7.1 CLI and 2.8.0 GUI binaries.
 
-The following downloads links provide binaries signed with this key
+The following download links provide binaries signed with this key
 
 ## Valid CLI Links
 
@@ -19,7 +19,25 @@ Sig:    [https://bitbucket.org/nerva-xnv/nerva/downloads/nerva-v0.1.7.1_osx.zip.
 ### Windows
 
 Binary: [https://bitbucket.org/nerva-xnv/nerva/downloads/nerva-v0.1.7.1_windows.zip](https://bitbucket.org/nerva-xnv/nerva/downloads/nerva-v0.1.7.1_windows.zip)  
-Sig:    [https://bitbucket.org/nerva-xnv/nerva/downloads/nerva-v0.1.7.1_windows.zip.sig](https://bitbucket.org/nerva-xnv/nerva/downloads/nerva-v0.1.7.1_windows.zip.sig) 
+Sig:    [https://bitbucket.org/nerva-xnv/nerva/downloads/nerva-v0.1.7.1_windows.zip.sig](https://bitbucket.org/nerva-xnv/nerva/downloads/nerva-v0.1.7.1_windows.zip.sig)  
+
+## Valid GUI Links
+
+### Linux
+
+Binary: [https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_linux.zip](https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_linux.zip)  
+Sig:    [https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_linux.zip.sig](https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_linux.zip.sig)
+
+### OSX
+
+Binary: [https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_osx.zip](https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_osx.zip)  
+Sig:    [https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_osx.zip.sig](https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_osx.zip.sig)  
+
+### Windows
+
+Binary: [https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_windows.zip.zip](https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_windows.zip)  
+Sig:    [https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_windows.zip.sig](https://bitbucket.org/nerva-xnv/gui/downloads/nerva-gui-v2.8.0_windows.zip.sig) 
+
 
 Binaries should only be downloaded from the above links and verified against the public key listed in this repo with the provided detached signature files
 
